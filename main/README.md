@@ -1,13 +1,13 @@
-# s ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+# ReadMe Generator ![MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Description
-### s
+### Example
 
 # Table of Contents
 * [Questions](#questions)
 
 * [Usage](#usage)
 
-* [Installation Instructions](#install)
+* [Installation](#install)
 
 * [Contributing](#contributing)
 
@@ -19,18 +19,18 @@
 
 <a name="usage"></a>
 ## Usage 
-### s
+### example
 
 <a name="contributing"></a>
 ## Contributing
-### s
+### example
 
 <a name="tests"></a>
 ## Tests
-### s
+### node index.js
 
 <a name="questions"></a>
 ## Questions
-### s
-### s
-### Reach out to me at s for additional questions you may have.
+### Stephen Marr
+### smarr2198
+### Reach out to me at smarr2198@gmail.com for additional questions you may have.

@@ -30,7 +30,7 @@ const generateReadMe = ({
 
 * [Usage](#usage)
 
-* [Installation Instructions](#install)
+* [Installation](#install)
 
 * [Contributing](#contributing)
 
